@@ -8,7 +8,7 @@ const navItems = [
   { name: "首页", href: "/#hero" },
   { name: "关于我们", href: "/#about" },
   { name: "服务范围", href: "/#services" },
-  { name: "电子书", href: "https://book.kidoit.cn/", external: true },
+  { name: "电子书", href: "/bookshelf" },
   { name: "新闻动态", href: "/news" },
   { name: "联系我们", href: "/#contact" },
 ];
